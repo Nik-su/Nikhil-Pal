@@ -24,6 +24,15 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### Additional Technologies:
+![NLP](https://img.shields.io/badge/-NLP-00BFFF?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FFD700?style=for-the-badge&logoColor=white)
+![VectorDB](https://img.shields.io/badge/-VectorDB-32CD32?style=for-the-badge&logoColor=white)
+![Fine-tuning LLMs](https://img.shields.io/badge/-Fine--tuning%20LLMs-DC143C?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF4500?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-008000?style=for-the-badge&logo=opencv&logoColor=white)
+
 ---
 
 ### 🔥 Projects:
