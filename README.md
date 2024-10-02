@@ -41,9 +41,6 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 
 ---
 
-
----
-
 ### 📊 GitHub Stats:
 
 ![Nik-su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik-su&show_icons=true&theme=radical)
