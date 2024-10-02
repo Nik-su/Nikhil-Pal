@@ -1,6 +1,8 @@
 # Hi there, I'm Nik-su! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nik-su&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/Nik-su?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Nik-su?style=social)
 
 I’m an AI/ML Engineer passionate about building intelligent systems and applications. I work with cutting-edge technologies to solve real-world problems.
 
@@ -26,8 +28,12 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 
 ### 🔥 Projects:
 
-- [Project 1](https://github.com/Nik-su/project1): A machine learning project using Python, TensorFlow, and Flask to predict house prices.
-- [Project 2](https://github.com/Nik-su/project2): A FastAPI application for video processing, featuring face swapping and lip-syncing.
+- [Speech Diarization Project](https://github.com/Nik-su/Speech-diarization): A FastAPI application for processing video data, including speech diarization, video quality checking, and upscaling.
+
+---
+
+### 🎥 Demo Video:
+![Project Demo](https://media.giphy.com/media/your-gif-url-here/giphy.gif)
 
 ---
 
@@ -35,13 +41,13 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 
 ![Nik-su's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik-su&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik-su&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nik-su&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/nikhil-pal-bigdata/) 
-[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/yourusername)
 
 ---
 
