@@ -40,7 +40,7 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)]((https://www.linkedin.com/in/nikhil-pal-bigdata/)) 
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/nikhil-pal-bigdata/) 
 [![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/yourusername)
 
 ---
@@ -50,4 +50,3 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nik-su&theme=vue)
 
 ---
-
