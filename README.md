@@ -41,8 +41,6 @@ I’m an AI/ML Engineer passionate about building intelligent systems and applic
 
 ---
 
-### 🎥 Demo Video:
-![Project Demo](https://media.giphy.com/media/your-gif-url-here/giphy.gif)
 
 ---
 
